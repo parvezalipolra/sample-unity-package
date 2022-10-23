@@ -1,0 +1,12 @@
+{
+    "name": "com.parvez.tools",
+    "version": "0.0.1",
+    "displayName": "Parvez's Tools",
+    "description": "A sample",
+    "unity" : "2020.3",
+    "author": {
+        "name" : "Parvez",
+        "email": "belovedparvez@gmail.com",
+        "url": ""
+    }
+}
